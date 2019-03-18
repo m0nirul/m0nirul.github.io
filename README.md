@@ -1,4 +1,4 @@
-# Links
+# Links From My bookmarkbar dataScience folder
 
 ### DataScience
 
@@ -22,7 +22,10 @@
 
 
 
-### MLDeployment
+<details>
+  <summary>MLDeployment</summary>
+
+
 
 
 
@@ -41,12 +44,12 @@
 [CODE: kafka-streams-machine-learning-examples: This project contains examples which demonstrate how to deploy analytic models to mission-critical, scalable production environments leveraging Apache Kafka and its Streams API. Models are built with Python, H2O, TensorFlow, Keras, DeepLearning4 and other technologies.](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples)
 
 [Deep Learning With Apache Spark — Part 1 – Towards Data Science](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+</details>
 
 
 
-### Scikit-learn
-
-
+<details>
+  <summary>Scikit-learn</summary>
 
 [Introduction to scikit-learn - O'Reilly Media](https://www.oreilly.com/ideas/intro-to-scikit-learn)
 
@@ -60,13 +63,12 @@
 
 [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
 
+</details>
 
 
 
-
-
-
-### Python Best practices
+<details>
+  <summary>Python Best practices</summary>
 
 
 
@@ -110,7 +112,12 @@
 
 
 
-### Books Free
+</details>
+
+
+
+<details>
+  <summary>Free Books List</summary>
 
 
 
@@ -171,6 +178,7 @@
 [UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 [Bayesian Reasoning and ML](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
+</details>
 
 
 
