@@ -2,192 +2,192 @@
 
 ### DataScience
 
-<dl>
 
-<dt>[Andrew Ng: How to Choose Your First AI Project](https://hbr.org/2019/02/how-to-choose-your-first-ai-project?fbclid=IwAR2mK1hfqRmYXRCeWPpIWm7snDt1HOQfHR5hbJINbLlCBcYSmXfn8Yvd3Gc)</dt>
 
-<dt>[data-science-from-scratch/recommender_systems.py at master · joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch/blob/master/code-python3/recommender_systems.py)</dt>
+[Andrew Ng: How to Choose Your First AI Project](https://hbr.org/2019/02/how-to-choose-your-first-ai-project?fbclid=IwAR2mK1hfqRmYXRCeWPpIWm7snDt1HOQfHR5hbJINbLlCBcYSmXfn8Yvd3Gc)
 
-<dt>[tensorFlowZoo](https://github.com/tensorflow/models/tree/master/research/)</dt>
+[data-science-from-scratch/recommender_systems.py at master · joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch/blob/master/code-python3/recommender_systems.py)
 
-<dt>[Caffe to TF](https://github.com/ethereon/caffe-tensorflow)</dt>
+[tensorFlowZoo](https://github.com/tensorflow/models/tree/master/research/)
 
-<dt>[Caffe Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)</dt>
+[Caffe to TF](https://github.com/ethereon/caffe-tensorflow)
 
-<dt>[W2V\](https://www.tensorflow.org/tutorials/representation/word2vec)</dt>
+[Caffe Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
-<dt>[WordEmbedding](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)</dt>
+[W2V](https://www.tensorflow.org/tutorials/representation/word2vec)
 
-<dt>[ML-DS](http://lineardigressions.com/episodes/2019/3/3/are-machine-learning-engineers-the-new-data-scientists)</dt>
+[WordEmbedding](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
-<dt>
+[ML-DS](http://lineardigressions.com/episodes/2019/3/3/are-machine-learning-engineers-the-new-data-scientists)
+
+
 
 ### MLDeployment
 
-<dl>
 
-<dt>[Systems Perspective to Reproducibility](https://openreview.net/pdf?id=Byl4vavigX)</dt>
 
-<dt>[Hidden Technical Debt](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)</dt>
+[Systems Perspective to Reproducibility](https://openreview.net/pdf?id=Byl4vavigX)
 
-<dt>[Bilding Reproducible Pipelie](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)</dt>
+[Hidden Technical Debt](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 
-<dt>[FB Workflow](https://code.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)</dt>
+[Bilding Reproducible Pipelie](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 
-<dt>[UberEATS prediction](http://proceedings.mlr.press/v67/li17a/li17a.pdf)</dt>
+[FB Workflow](https://code.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
 
-<dt>[Using Apache Kafka to Drive Cutting-Edge Machine Learning | Confluent](https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning)</dt>
+[UberEATS prediction](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 
-<dt>[CODE: kafka-streams-machine-learning-examples: This project contains examples which demonstrate how to deploy analytic models to mission-critical, scalable production environments leveraging Apache Kafka and its Streams API. Models are built with Python, H2O, TensorFlow, Keras, DeepLearning4 and other technologies.](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples)</dt>
+[Using Apache Kafka to Drive Cutting-Edge Machine Learning | Confluent](https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning)
 
-<dt>[Deep Learning With Apache Spark — Part 1 – Towards Data Science](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)</dt>
+[CODE: kafka-streams-machine-learning-examples: This project contains examples which demonstrate how to deploy analytic models to mission-critical, scalable production environments leveraging Apache Kafka and its Streams API. Models are built with Python, H2O, TensorFlow, Keras, DeepLearning4 and other technologies.](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples)
 
-<dt>
+[Deep Learning With Apache Spark — Part 1 – Towards Data Science](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+
+
 
 ### Scikit-learn
 
-<dl>
 
-<dt>[Introduction to scikit-learn - O'Reilly Media](https://www.oreilly.com/ideas/intro-to-scikit-learn)</dt>
 
-<dt>[Six reasons why I recommend scikit-learn - O'Reilly Media](https://www.oreilly.com/ideas/six-reasons-why-i-recommend-scikit-learn)</dt>
+[Introduction to scikit-learn - O'Reilly Media](https://www.oreilly.com/ideas/intro-to-scikit-learn)
 
-<dt>[Why you should learn Scikit-learn | Packt Hub](https://hub.packtpub.com/learn-scikit-learn/)</dt>
+[Six reasons why I recommend scikit-learn - O'Reilly Media](https://www.oreilly.com/ideas/six-reasons-why-i-recommend-scikit-learn)
 
-<dt>[A Deep Dive Into Sklearn Pipelines | Kaggle](https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines)</dt>
+[Why you should learn Scikit-learn | Packt Hub](https://hub.packtpub.com/learn-scikit-learn/)
 
-<dt>[Sklearn pipelines tutorial | Kaggle](https://www.kaggle.com/sermakarevich/sklearn-pipelines-tutorial)</dt>
+[A Deep Dive Into Sklearn Pipelines | Kaggle](https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines)
 
-<dt>[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)</dt>
+[Sklearn pipelines tutorial | Kaggle](https://www.kaggle.com/sermakarevich/sklearn-pipelines-tutorial)
 
-</dl>
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
 
-</dt>
 
-<dt>
+
+
+
+
 
 ### Python Best practices
 
-<dl>
 
-<dt>[A "Best of the Best Practices" (BOBP) guide to developing in Python.](https://gist.github.com/sloria/7001839)</dt>
 
-<dt>[Python coding standards/best practices - Stack Overflow](https://stackoverflow.com/questions/356161/python-coding-standards-best-practices)</dt>
+[A "Best of the Best Practices" (BOBP) guide to developing in Python.](https://gist.github.com/sloria/7001839)
 
-<dt>[Python Best Practices – Real Python](https://realpython.com/tutorials/best-practices/)</dt>
+[Python coding standards/best practices - Stack Overflow](https://stackoverflow.com/questions/356161/python-coding-standards-best-practices)
 
-<dt>[Code Style — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/style/)</dt>
+[Python Best Practices – Real Python](https://realpython.com/tutorials/best-practices/)
 
-<dt>[Pycharm Tutorial](https://www.tutorialspoint.com/pycharm)</dt>
+[Code Style — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/style/)
 
-<dt>[PyCharm - Full Stack Python](https://www.fullstackpython.com/pycharm.html)</dt>
+[Pycharm Tutorial](https://www.tutorialspoint.com/pycharm)
 
-<dt>[PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/)</dt>
+[PyCharm - Full Stack Python](https://www.fullstackpython.com/pycharm.html)
 
-</dl>
+[PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/)
 
-</dt>
 
-<dt>[github](https://github.com/trainindata/deploying-machine-learning-models)</dt>
 
-<dt>[featureEng github](https://github.com/solegalli/feature_engine)</dt>
 
-<dt>[MLWorkshop](https://github.com/sameermahajan/MLWorkshop)</dt>
 
-<dt>[keras](https://github.com/keras-team/keras)</dt>
+[github](https://github.com/trainindata/deploying-machine-learning-models)
 
-<dt>[lstm anamoly](https://github.com/akash13singh/lstm_anomaly_thesis)</dt>
+[featureEng github](https://github.com/solegalli/feature_engine)
 
-<dt>[Anomaly](https://github.com/numenta/NAB)</dt>
+[MLWorkshop](https://github.com/sameermahajan/MLWorkshop)
 
-<dt>[Udacity Nanodegree ML](https://github.com/nialloh23/machine-learning-nd)</dt>
+[keras](https://github.com/keras-team/keras)
 
-<dt>[udacity OAuth](https://github.com/udacity/OAuth2.0)</dt>
+[lstm anamoly](https://github.com/akash13singh/lstm_anomaly_thesis)
 
-</dl>
+[Anomaly](https://github.com/numenta/NAB)
 
-</dt>
+[Udacity Nanodegree ML](https://github.com/nialloh23/machine-learning-nd)
 
-<dt>
+[udacity OAuth](https://github.com/udacity/OAuth2.0)
+
+
+
+
+
+
 
 ### Books Free
 
-<dl>
 
-<dt>[Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)</dt>
 
-<dt>[1\. Introduction — Dive into Deep Learning documentation](http://d2l.ai/chapter_introduction/intro.html)</dt>
+[Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 
-<dt>[Dive into Deep Learning: An Interactive Book with Math, Code, and Discussions](http://d2l.ai/)</dt>
+[1\. Introduction — Dive into Deep Learning documentation](http://d2l.ai/chapter_introduction/intro.html)
 
-<dt>[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)</dt>
+[Dive into Deep Learning: An Interactive Book with Math, Code, and Discussions](http://d2l.ai/)
 
-<dt>[A Byte of Python](https://python.swaroopch.com/)</dt>
+[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
-<dt>[Data Visualization](https://socviz.co/index.html)</dt>
+[A Byte of Python](https://python.swaroopch.com/)
 
-<dt>[Algorithms of Reinforcement Learning: A new book by Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/RLBook.html)</dt>
+[Data Visualization](https://socviz.co/index.html)
 
-<dt>[web.mit.edu/dimitrib/www/RLbook.html](http://web.mit.edu/dimitrib/www/RLbook.html)</dt>
+[Algorithms of Reinforcement Learning: A new book by Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/RLBook.html)
 
-<dt>[Think Stats: Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)</dt>
+[web.mit.edu/dimitrib/www/RLbook.html](http://web.mit.edu/dimitrib/www/RLbook.html)
 
-<dt>[Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)</dt>
+[Think Stats: Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
 
-<dt>[UnderstandingMachineLearning/](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)</dt>
+[Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
-<dt>[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)</dt>
+[UnderstandingMachineLearning/](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
-<dt>[Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)</dt>
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
 
-<dt>[The Ancient Art of the Numerati](http://guidetodatamining.com/)</dt>
+[Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
 
-<dt>[Mining of Massive Datasets](http://mmds.org/)</dt>
+[The Ancient Art of the Numerati](http://guidetodatamining.com/)
 
-<dt>[Deep Learning](http://www.deeplearningbook.org/)</dt>
+[Mining of Massive Datasets](http://mmds.org/)
 
-<dt>[Machine Learning Yearning](https://www.mlyearning.org/)</dt>
+[Deep Learning](http://www.deeplearningbook.org/)
 
-<dt>[jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)</dt>
+[Machine Learning Yearning](https://www.mlyearning.org/)
 
-<dt>[Think Bayes – Green Tea Press](http://greenteapress.com/wp/think-bayes/)</dt>
+[jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-<dt>[Machine Learning and Big Data](http://www.kareemalkaseer.com/books/ml)</dt>
+[Think Bayes – Green Tea Press](http://greenteapress.com/wp/think-bayes/)
 
-<dt>[Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/)</dt>
+[Machine Learning and Big Data](http://www.kareemalkaseer.com/books/ml)
 
-<dt>[Statistical inference for data… by Brian Caffo [PDF/iPad/Kindle]](https://leanpub.com/LittleInferenceBook)</dt>
+[Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/)
 
-<dt>[Convex Optimization – Boyd and Vandenberghe](http://stanford.edu/~boyd/cvxbook/)</dt>
+[Statistical inference for data… by Brian Caffo [PDF/iPad/Kindle]](https://leanpub.com/LittleInferenceBook)
 
-<dt>[NLTK Book](https://www.nltk.org/book/)</dt>
+[Convex Optimization – Boyd and Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
 
-<dt>[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)</dt>
+[NLTK Book](https://www.nltk.org/book/)
 
-<dt>[Social Media Mining](http://dmml.asu.edu/smm/)</dt>
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-<dt>[Introduction to Machine Learning](http://ai.stanford.edu/~nilsson/mlbook.html)</dt>
+[Social Media Mining](http://dmml.asu.edu/smm/)
 
-<dt>[UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)</dt>
+[Introduction to Machine Learning](http://ai.stanford.edu/~nilsson/mlbook.html)
 
-<dt>[Bayesian Reasoning and ML](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)</dt>
+[UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
-</dl>
+[Bayesian Reasoning and ML](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
 
-</dt>
 
-<dt>[models/research/textsum at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/research/textsum)</dt>
 
-<dt>[How to Build a Compelling Data Science Portfolio & Resume | Kaggle - YouTube](https://www.youtube.com/watch?v=xrhPjE7wHas&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG)</dt>
 
-<dt>[Learn Machine Learning | Data Science | Train In Data](https://www.trainindata.com/learn-machine-learning)</dt>
 
-</dl>
+[models/research/textsum at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/research/textsum)
 
-</dt>
+[How to Build a Compelling Data Science Portfolio & Resume | Kaggle - YouTube](https://www.youtube.com/watch?v=xrhPjE7wHas&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG)
 
-</dl>
+[Learn Machine Learning | Data Science | Train In Data](https://www.trainindata.com/learn-machine-learning)
 
-</dt>
 
-</dl>
+
+
+
+
+
+
+
+
